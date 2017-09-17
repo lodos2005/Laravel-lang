@@ -103,6 +103,18 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+        /* //örnek
+        'password' => [
+            'min' => 'Şifreniz en az :min karakter olmalıdır',
+            'same' => 'Şifreler birbirini tutmuyor',
+        ],
+        'password1' => [
+            'min' => 'Şifreniz en az :min karakter olmalıdır',
+            'same' => 'Şifreler birbirini tutmuyor',
+        ],
+        'email'=>[
+            'uniqe'=>'E-mail Adresi daha önceden kayıt olmuş',
+        ]*/
     ],
 
     /*
